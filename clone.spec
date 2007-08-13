@@ -9,7 +9,7 @@ Version: %{version}
 Release: %{release}
 Source0: %{name}-%{version}.tar.bz2
 License: GPL
-Group: System/Deployment
+Group: System/Cluster
 Url: http://www.mandriva.com
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 requires: ka-deploy-source-node
