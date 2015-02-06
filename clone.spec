@@ -1,6 +1,6 @@
 %define name clone
 %define version 0.1
-%define release %mkrel 6
+%define release 7
 %define tftpboot /var/lib/tftpboot
 
 Summary: HOWTO duplicate an node with ka, dolly, and dollyC
